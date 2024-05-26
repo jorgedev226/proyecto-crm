@@ -1,0 +1,36 @@
+Historias de Usuario:
+Como usuario administrador, quiero poder agregar nuevos clientes al sistema para mantener un registro actualizado de la base de datos de clientes.
+
+Criterios de Aceptación:
+El usuario administrador debe poder ingresar la información del cliente, como nombre, correo electrónico, teléfono, dirección, etc.
+El cliente recién agregado debe estar disponible para su visualización y gestión en el sistema.
+Como usuario de ventas, quiero poder ver una lista de todos los clientes para identificar oportunidades de venta y gestionar relaciones con los clientes existentes.
+
+Criterios de Aceptación:
+Se debe proporcionar una vista de lista que muestre los detalles clave de cada cliente, como nombre, estado, valor potencial, etc.
+Los usuarios de ventas deben poder filtrar y buscar clientes según diferentes criterios, como nombre, estado, valor, etc.
+Como usuario de ventas, quiero poder agregar interacciones con los clientes, como llamadas telefónicas, correos electrónicos o reuniones, para mantener un registro de todas las comunicaciones.
+
+Criterios de Aceptación:
+Debe haber una forma de registrar nuevas interacciones con los clientes, especificando el tipo de interacción, la fecha, la duración, los comentarios, etc.
+Las interacciones registradas deben asociarse correctamente con el cliente correspondiente y estar disponibles para su consulta en el futuro.
+Como usuario de ventas, quiero poder registrar nuevas oportunidades de venta para realizar un seguimiento de los posibles negocios y cerrar tratos exitosos.
+
+Criterios de Aceptación:
+Debe haber un formulario para ingresar los detalles de la oportunidad de venta, como nombre, valor estimado, estado actual, probabilidad de cierre, etc.
+Las oportunidades de venta registradas deben poder asociarse con el cliente correspondiente y ser visibles en la vista de lista de oportunidades de venta.
+Como usuario administrador, quiero poder asignar roles y permisos a los usuarios del sistema para controlar el acceso a las funcionalidades según sus responsabilidades.
+
+Criterios de Aceptación:
+Debe haber roles predefinidos, como administrador, usuario de ventas, usuario de soporte, etc.
+Los administradores deben poder asignar roles específicos a cada usuario y definir los permisos asociados con cada rol.
+Como usuario de ventas, quiero recibir notificaciones o alertas sobre eventos importantes, como nuevas interacciones con los clientes, cambios en el estado de las oportunidades de venta, etc.
+
+Criterios de Aceptación:
+Debe haber un sistema de notificaciones que informe a los usuarios sobre eventos relevantes en tiempo real o mediante resúmenes periódicos.
+Los usuarios deben poder personalizar las preferencias de notificación según sus necesidades y preferencias.
+Como usuario administrador, quiero poder generar informes y análisis sobre la actividad de ventas y el rendimiento del equipo para evaluar el desempeño y tomar decisiones estratégicas.
+
+Criterios de Aceptación:
+Debe haber un conjunto de informes predefinidos que muestren métricas clave, como número de clientes nuevos, valor de las oportunidades de venta, tasa de conversión, etc.
+Los usuarios deben poder generar informes personalizados y realizar análisis ad-hoc utilizando filtros y herramientas de visualización de datos.
